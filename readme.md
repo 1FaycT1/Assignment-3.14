@@ -10,7 +10,7 @@
 ### Содержание:
 1. [git add](add.md)
 2. [git clone](git_clone.md)
-
+3. [git_commit](git_commit.md)
 
 ----
 ----
