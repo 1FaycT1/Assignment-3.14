@@ -9,9 +9,15 @@
 
 ### Содержание:
 1. [git add](add.md)
-2. [git clone](git_clone.md)
+2. [git_clone](git_clone.md)
 3. [git_commit](git_commit.md)
-
+4. [git_push](git_push.md)
+5. [git_pull](git_pull.md)
+6. [git_status](git_status.md)
+7. [git_log](git_log.md)
+8. [git_branch](git_branch.md)
+9. [git_merge](git_merge.md)
+10. [git_checkout](git_checkot.md)
 ----
 ----
 
